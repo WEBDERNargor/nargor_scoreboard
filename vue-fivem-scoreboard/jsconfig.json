@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  },
+  "exclude": ["node_modules", "../../../../../../servertest/txData/CFXDefaultFiveM_A4CB29.base/resources/nargor_scoreboard/dist"]
+}
